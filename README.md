@@ -5,7 +5,7 @@ i a e n x y h t s c '
 , / ; j z k p m v g
 ```
 
-Lots of inrolls, right pinky is low usage, but may have higher than preferred movement, most SFBs are `LT` on right middle, `RN` on the left index, and the vowel block.
+Lots of inrolls, right pinky is low usage, but may have higher than preferred movement, most SFBs are `LT` on right middle, `RN` on the left index, and the vowel block. Some people may have issue with `GCW` pinky.
 
 If bearable though, I recommend moving `e` to the pinky:
 
