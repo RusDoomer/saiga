@@ -33,6 +33,7 @@ j o u r q v d l b g
 e a i n x y h t s c '
 / . , ; z k p m f w
 ```
+(krai-old had `gw` swapped)
 
 # Mir - a compromise between Krai and Saiga-E
 ```
